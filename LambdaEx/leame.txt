@@ -1,0 +1,7 @@
+Lambda Expressions
+------------------
+- In short, it is not easy to pass plain methods / functionalities in Java that can be passed as arguments. 
+  Due to this limitation Java 8 adds a brand new language level feature called Lambda Expressions.
+  
+- Lambda expression adds that missing link of functional programming to Java. 
+  Lambda expression let us have functions as first class citizen.  
